@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\firstprojet\firstprojet\bin\Debug\net6.0-windows\firstprojet.exe
+C:\Users\User\Desktop\firstprojet\firstprojet\bin\Debug\net6.0-windows\firstprojet.deps.json
+C:\Users\User\Desktop\firstprojet\firstprojet\bin\Debug\net6.0-windows\firstprojet.runtimeconfig.json
+C:\Users\User\Desktop\firstprojet\firstprojet\bin\Debug\net6.0-windows\firstprojet.dll
+C:\Users\User\Desktop\firstprojet\firstprojet\bin\Debug\net6.0-windows\firstprojet.pdb
+C:\Users\User\Desktop\firstprojet\firstprojet\obj\Debug\net6.0-windows\firstprojet.Form1.resources
+C:\Users\User\Desktop\firstprojet\firstprojet\obj\Debug\net6.0-windows\firstprojet.csproj.GenerateResource.cache
+C:\Users\User\Desktop\firstprojet\firstprojet\obj\Debug\net6.0-windows\firstprojet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\firstprojet\firstprojet\obj\Debug\net6.0-windows\firstprojet.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\firstprojet\firstprojet\obj\Debug\net6.0-windows\firstprojet.AssemblyInfo.cs
+C:\Users\User\Desktop\firstprojet\firstprojet\obj\Debug\net6.0-windows\firstprojet.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\firstprojet\firstprojet\obj\Debug\net6.0-windows\firstprojet.dll
+C:\Users\User\Desktop\firstprojet\firstprojet\obj\Debug\net6.0-windows\refint\firstprojet.dll
+C:\Users\User\Desktop\firstprojet\firstprojet\obj\Debug\net6.0-windows\firstprojet.pdb
+C:\Users\User\Desktop\firstprojet\firstprojet\obj\Debug\net6.0-windows\firstprojet.genruntimeconfig.cache
+C:\Users\User\Desktop\firstprojet\firstprojet\obj\Debug\net6.0-windows\ref\firstprojet.dll
